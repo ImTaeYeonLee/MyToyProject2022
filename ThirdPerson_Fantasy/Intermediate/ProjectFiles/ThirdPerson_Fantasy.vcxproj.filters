@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPerson_Fantasy.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{62DF58F3-938B-46B7-81C4-DA05E4BDD6F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson_Fantasy.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson_FantasyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F361B8DB-423A-4DEE-8DF5-25999EEC879C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson_Fantasy">
+      <UniqueIdentifier>{02595895-E423-4015-B6A4-0A8C0BA29E46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_Fantasy.Build.cs">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_Fantasy.cpp">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_Fantasy.h">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_FantasyCharacter.cpp">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_FantasyCharacter.h">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_FantasyGameMode.cpp">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson_Fantasy\ThirdPerson_FantasyGameMode.h">
+      <Filter>Source\ThirdPerson_Fantasy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

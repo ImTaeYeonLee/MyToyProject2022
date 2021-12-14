@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThirdPerson_Fantasy",
+			"Path": "C:\\Users\\TFG5076XG\\Documents\\GitHub\\MyToyProject_In2022\\ThirdPerson_Fantasy\\Source\\ThirdPerson_Fantasy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThirdPerson_FantasyEditor",
+			"Path": "C:\\Users\\TFG5076XG\\Documents\\GitHub\\MyToyProject_In2022\\ThirdPerson_Fantasy\\Source\\ThirdPerson_FantasyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

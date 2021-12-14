@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ThirdPerson_Fantasy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\ThirdPerson_FantasyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\ThirdPerson_Fantasy.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\ThirdPerson_FantasyCharacter.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\ThirdPerson_FantasyGameMode.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\ThirdPerson_Fantasy.init.gen.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\ThirdPerson_FantasyCharacter.gen.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\ThirdPerson_FantasyGameMode.gen.cpp.obj"
+"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\Default.rc2.res"
+/OUT:"C:\Users\TFG5076XG\Documents\GitHub\MyToyProject_In2022\ThirdPerson_Fantasy\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson_Fantasy\UE4Editor-ThirdPerson_Fantasy.lib"
